@@ -1,2 +1,2 @@
-# MyApplication
-capstone
+# EASYWAY 
+Capstone Project
